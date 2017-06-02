@@ -55743,7 +55743,7 @@ var AboutPage = (function () {
 }());
 AboutPage = __decorate([
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_5" /* Component */])({
-        selector: 'page-about',template:/*ion-inline-start:"C:\Users\Srey Pich\Desktop\MoneyBank\src\pages\about\about.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      About\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\nHello world\n</ion-content>\n'/*ion-inline-end:"C:\Users\Srey Pich\Desktop\MoneyBank\src\pages\about\about.html"*/
+        selector: 'page-about',template:/*ion-inline-start:"C:\Users\Srey Pich\Desktop\MoneyBank\src\pages\about\about.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      About\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\nHi I am Pich\n</ion-content>\n'/*ion-inline-end:"C:\Users\Srey Pich\Desktop\MoneyBank\src\pages\about\about.html"*/
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */]])
 ], AboutPage);
